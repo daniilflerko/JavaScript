@@ -1,0 +1,30 @@
+body{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.input-container{
+    margin-bottom: 15px;
+}
+
+.click-container{
+    margin-top: 75px;
+}
+
+#nickname{
+    padding:5px 10px;
+}
+.options{
+    margin-left: 10px;
+    background-color: #F7D57C;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+#click{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    font-size: 24px;
+    background-color: #92B5F2;
+}
